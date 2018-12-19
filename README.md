@@ -9,5 +9,5 @@ Trainig in [OpenAI Gym](https://gym.openai.com/) environment.
 
 ## Problem statement
 We would like to train an RL agent to pwin at Pong game 
-![alt text](https://github.com/Immiora/deepPongRL/blob/master/final_report/Slide2.tif"problem_statement")
+![alt text](https://github.com/Immiora/deepPongRL/blob/master/final_report/Slide2.tif "problem_statement")
 
