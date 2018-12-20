@@ -32,4 +32,4 @@ The policy gradient model was trained on ~5000 episodes and almost reached 0-rew
 We did some preliminary model comparison and observed that shallower models (1-layer) converged faster (final performance subject to number of training episodes). We also saw that policy gradient training resulted in faster and more graduate training compared to deep Q-learning.
 
 ![training details](https://github.com/Immiora/deepPongRL/blob/master/final_report/Slide13.PNG?raw=true)
-Our final cote concerned GPU vs CPU computational time differences. We report that smaller networks are trained faster on a CPU unit.
+Our final note concerned GPU vs CPU computational time differences. We report that smaller networks are trained faster on a CPU unit.
